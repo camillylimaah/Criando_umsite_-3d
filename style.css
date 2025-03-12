@@ -1,0 +1,39 @@
+body {background-color: black;}
+h1 {
+     color: rgba(141, 56, 0, 0.5);
+    text-align: center;
+    background-color: rgb(255, 123, 0);
+    border-style: groove;
+}
+
+h2 {color: rgb(231, 113, 3);
+    text-align: center;
+}
+
+#ima1 {margin-left: 36%;
+}
+
+h3 {color: rgb(231, 113, 3 );}
+h4 {color: rgb(231, 113, 3 );}
+h5 {color: rgb(231, 113, 3 );}
+h6 {color: rgb(231, 113, 3 );}
+
+h3 { text-align: center;}
+h5 {text-align: center;}
+h6  {text-align: center;}
+h4 {text-align: center;}
+
+h7 {background-color:rgb(255, 123, 0); ;
+    color: rgba(141, 56, 0, 0.5);
+    text-align: center;
+    border-style: groove;
+    h2 {font-size: larger;}
+
+}
+ h2 {font-size: larger;}
+ h3 {font-size: larger;}
+ h4 {font-size: larger;}
+ h5 {font-size: larger;}
+ h6 {font-size: larger;}
+
+ 
